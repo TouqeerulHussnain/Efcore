@@ -1,0 +1,12 @@
+﻿namespace EFCoreTask.Core.Domain.TaskModel
+{
+    public class StudentAdmissionForm
+    {
+
+        public int Id { get; set; }
+        public string AppliedFieldName { get; set; }
+        public Guid StudentId { get; set; }
+        public Student Student { get; set; }
+
+    }
+}
