@@ -41,44 +41,43 @@ namespace EFCoreTask.Controllers
 
         }
 
-        [HttpGet("getAllEmployeeManager")]
-        public IActionResult getAllEmployeeManager() { 
-                var employees = context.AllEmployeeManager.ToList();
-                return Ok(employees);
-        }
+        //[HttpGet("getAllEmployeeManager")]
+        //public IActionResult getAllEmployeeManager() { 
+        //        var employees = context.AllEmployeeManager.ToList();
+        //        return Ok(employees);
+        //}
         [HttpGet("getStudents")]
         public async Task<IActionResult> getStudents()
         {
-            var students = context.Student.ToArrayAsync();
-                
-                return Ok(students);
+            //var students = await context.Student.ToArrayAsync();
+
+            return Ok();
         }
 
+        //[HttpPost("AddStudent")]
+        //public async Task<IActionResult> addStudents(Student student)
+        //{
+        //    await context.Student.AddAsync(student);
+        //    await context.SaveChangesAsync();
+
+        //    return Ok();
+        //}
+
         [HttpPost("AddStudent")]
-        public async Task<IActionResult> AddStudent() {
-        
-            var student =  context.Student;
+        public async Task<IActionResult> AddStudent()
+        {
 
-            var newStudent = new Student {
-                Name="Touqeer",
-                RollNo="1128",
-                Teachers=new List<Teacher>
-                {
-                    new Teacher
-                    {
-                        TeacherName="Bilal",
-                        TeacherDescription= "BSCS",
-                    },
-                    new Teacher
-                    {
-                        TeacherName="Kamran",
-                        TeacherDescription= "BSSE",
-                    }
-                }
-            };
+            //var student = context.Student;
 
-            await student.AddAsync(newStudent);
-            await context.SaveChangesAsync();
+            //var newStudent = new Student
+            //{
+            //    Name = "Touqeer",
+            //    RollNo = "1128",
+                
+            //};
+
+            //await student.AddAsync(newStudent);
+            //await context.SaveChangesAsync();
             return Ok();
         }
     }

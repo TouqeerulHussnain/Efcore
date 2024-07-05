@@ -9,8 +9,8 @@
         //public int StudentBioId { get;  set; }
         //public StudentBio StudentBio { get; set; }
 
-        public ICollection<StudentAdmissionForm> admissionForms { get; set; }
+        //public ICollection<StudentAdmissionForm>? admissionForms { get; set; }
 
-        public ICollection<Teacher> Teachers { get; set; }  
+        //public ICollection<Teacher>? Teachers { get; set; }  
     }
 }

@@ -135,3 +135,4 @@ C:\Users\Touqeer\source\repos\EFCoreTask\obj\Debug\net8.0\EFCoreTask.pdb
 C:\Users\Touqeer\source\repos\EFCoreTask\obj\Debug\net8.0\EFCoreTask.genruntimeconfig.cache
 C:\Users\Touqeer\source\repos\EFCoreTask\obj\Debug\net8.0\ref\EFCoreTask.dll
 C:\Users\Touqeer\source\repos\EFCoreTask\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Touqeer\source\repos\EFCoreTask\obj\Debug\net8.0\EFCoreTask.sourcelink.json

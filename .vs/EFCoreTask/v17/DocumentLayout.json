@@ -3,108 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\modelconfiguration\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\modelconfiguration\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\modelconfiguration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\modelconfiguration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705110436_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240705110436_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\modelconfiguration\\admissionformconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\modelconfiguration\\admissionformconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705110136_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240705110136_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704135222_selfJoinTableFix4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240704135222_selfJoinTableFix4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705105955_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240705105955_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\taskmodel\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\taskmodel\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705105811_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240705105811_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\taskmodel\\studentadmissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\taskmodel\\studentadmissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\view\\allemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\view\\allemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\taskmodel\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\taskmodel\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\taskmodel\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\taskmodel\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\taskmodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\taskmodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704124903_selfJoinTableFix3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240704124903_selfJoinTableFix3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\migrations\\20240704124719_selfjointablefix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:migrations\\20240704124719_selfjointablefix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\migrations\\20240704124343_selfjointablefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:migrations\\20240704124343_selfjointablefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705105601_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240705105601_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704124549_selfJoinTableFix1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240704124549_selfJoinTableFix1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\modelconfiguration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\modelconfiguration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\migrations\\20240704114842_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:migrations\\20240704114842_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704064400_createView1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240704064400_createView1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\taskmodel\\studentteacherassociation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\taskmodel\\studentteacherassociation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\modelconfiguration\\studentbioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\modelconfiguration\\studentbioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\models\\villaamanity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\models\\villaamanity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|c:\\users\\touqeer\\source\\repos\\efcoretask\\core\\domain\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C80B4196-BB51-4B95-AE81-572FC6324D23}|EFCoreTask.csproj|solutionrelative:core\\domain\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost/WeekThreeWebApi/True/SqlTable/dbo.VillaAmanities.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -127,6 +55,106 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240703044713_CreateVillaAndSeedTable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240703044713_CreateVillaAndSeedTable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\TaskModel\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\StudentConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\ModelConfiguration\\StudentConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\StudentBioConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\ModelConfiguration\\StudentBioConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\EmployeeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\ModelConfiguration\\EmployeeConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Repository\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Repository\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\View\\AllEmployeeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\View\\AllEmployeeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705111438_addingStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240705111438_addingStudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\TeacherConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\ModelConfiguration\\TeacherConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\AdmissionFormConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\ModelConfiguration\\AdmissionFormConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\TaskModel\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\TaskModel\\StudentInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentTeacherAssociation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\TaskModel\\StudentTeacherAssociation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\TaskModel\\Teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705111233_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240705111233_fixingStudentTableConstraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentAdmissionForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\TaskModel\\StudentAdmissionForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704135222_selfJoinTableFix4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240704135222_selfJoinTableFix4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704124903_selfJoinTableFix3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240704124903_selfJoinTableFix3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704124719_selfJoinTableFix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240704124719_selfJoinTableFix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704124343_selfJoinTableFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240704124343_selfJoinTableFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704114842_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240704114842_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\Models\\Villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\Models\\Villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\Models\\VillaAmanity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Domain\\Models\\VillaAmanity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -141,32 +169,259 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T04:49:43.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\Student.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Student.cs",
+              "RelativeToolTip": "Core\\Domain\\TaskModel\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:32:46.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\ModelConfiguration\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\StudentConfiguration.cs",
+              "RelativeToolTip": "Core\\Domain\\ModelConfiguration\\StudentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:35:46.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentBioConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\StudentBioConfiguration.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\ModelConfiguration\\StudentBioConfiguration.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\StudentBioConfiguration.cs",
+              "RelativeToolTip": "Core\\Domain\\ModelConfiguration\\StudentBioConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:40:21.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\ModelConfiguration\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "Core\\Domain\\ModelConfiguration\\EmployeeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:16:37.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Core\\Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:45:22.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AllEmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\View\\AllEmployeeManager.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\View\\AllEmployeeManager.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\View\\AllEmployeeManager.cs",
+              "RelativeToolTip": "Core\\Domain\\View\\AllEmployeeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:47:07.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240705111438_addingStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705111438_addingStudent.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240705111438_addingStudent.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705111438_addingStudent.cs",
+              "RelativeToolTip": "Migrations\\20240705111438_addingStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:14:38.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "TeacherConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\TeacherConfiguration.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\ModelConfiguration\\TeacherConfiguration.cs",
               "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\TeacherConfiguration.cs",
               "RelativeToolTip": "Core\\Domain\\ModelConfiguration\\TeacherConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T13:56:12.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T13:56:12.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 22,
               "Title": "AdmissionFormConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\AdmissionFormConfiguration.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\ModelConfiguration\\AdmissionFormConfiguration.cs",
               "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\AdmissionFormConfiguration.cs",
               "RelativeToolTip": "Core\\Domain\\ModelConfiguration\\AdmissionFormConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:56:09.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Employee.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\Employee.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Employee.cs",
+              "RelativeToolTip": "Core\\Domain\\TaskModel\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:45:25.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\StudentInfo.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentInfo.cs",
+              "RelativeToolTip": "Core\\Domain\\TaskModel\\StudentInfo.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:34:37.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentTeacherAssociation.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentTeacherAssociation.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\StudentTeacherAssociation.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentTeacherAssociation.cs",
+              "RelativeToolTip": "Core\\Domain\\TaskModel\\StudentTeacherAssociation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:36:48.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Teacher.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Teacher.cs",
+              "RelativeToolTip": "Core\\Domain\\TaskModel\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:36:59.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240705111233_fixingStudentTableConstraint1.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705111233_fixingStudentTableConstraint1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240705111233_fixingStudentTableConstraint1.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705111233_fixingStudentTableConstraint1.cs",
+              "RelativeToolTip": "Migrations\\20240705111233_fixingStudentTableConstraint1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:12:34.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentAdmissionForm.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentAdmissionForm.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\StudentAdmissionForm.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentAdmissionForm.cs",
+              "RelativeToolTip": "Core\\Domain\\TaskModel\\StudentAdmissionForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:36:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240705110436_fixingStudentTableConstraint1.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705110436_fixingStudentTableConstraint1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240705110436_fixingStudentTableConstraint1.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705110436_fixingStudentTableConstraint1.cs",
+              "RelativeToolTip": "Migrations\\20240705110436_fixingStudentTableConstraint1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T13:56:09.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T11:04:36.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240705110136_fixingStudentTableConstraint1.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705110136_fixingStudentTableConstraint1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240705110136_fixingStudentTableConstraint1.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705110136_fixingStudentTableConstraint1.cs",
+              "RelativeToolTip": "Migrations\\20240705110136_fixingStudentTableConstraint1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:01:36.998Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "20240705105955_fixingStudentTableConstraint1.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705105955_fixingStudentTableConstraint1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240705105955_fixingStudentTableConstraint1.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705105955_fixingStudentTableConstraint1.cs",
+              "RelativeToolTip": "Migrations\\20240705105955_fixingStudentTableConstraint1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:59:55.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240705105811_fixingStudentTableConstraint1.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705105811_fixingStudentTableConstraint1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240705105811_fixingStudentTableConstraint1.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705105811_fixingStudentTableConstraint1.cs",
+              "RelativeToolTip": "Migrations\\20240705105811_fixingStudentTableConstraint1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:58:12.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240705105601_fixingStudentTableConstraint1.cs",
+              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705105601_fixingStudentTableConstraint1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240705105601_fixingStudentTableConstraint1.cs",
+              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240705105601_fixingStudentTableConstraint1.cs",
+              "RelativeToolTip": "Migrations\\20240705105601_fixingStudentTableConstraint1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:56:03.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "20240704135222_selfJoinTableFix4.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704135222_selfJoinTableFix4.cs",
               "RelativeDocumentMoniker": "Migrations\\20240704135222_selfJoinTableFix4.cs",
@@ -174,116 +429,11 @@
               "RelativeToolTip": "Migrations\\20240704135222_selfJoinTableFix4.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAgwCcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T13:52:22.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T13:52:22.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentAdmissionForm.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentAdmissionForm.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\StudentAdmissionForm.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentAdmissionForm.cs",
-              "RelativeToolTip": "Core\\Domain\\TaskModel\\StudentAdmissionForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:36:39.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\StudentConfiguration.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\ModelConfiguration\\StudentConfiguration.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\StudentConfiguration.cs",
-              "RelativeToolTip": "Core\\Domain\\ModelConfiguration\\StudentConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:35:46.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAIwD0AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T04:49:43.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Employee.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\Employee.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Employee.cs",
-              "RelativeToolTip": "Core\\Domain\\TaskModel\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T06:45:25.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Student.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\Student.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Student.cs",
-              "RelativeToolTip": "Core\\Domain\\TaskModel\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:32:46.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Teacher.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\Teacher.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\Teacher.cs",
-              "RelativeToolTip": "Core\\Domain\\TaskModel\\Teacher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:36:59.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AllEmployeeManager.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\View\\AllEmployeeManager.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\View\\AllEmployeeManager.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\View\\AllEmployeeManager.cs",
-              "RelativeToolTip": "Core\\Domain\\View\\AllEmployeeManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T06:47:07.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentInfo.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\StudentInfo.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentInfo.cs",
-              "RelativeToolTip": "Core\\Domain\\TaskModel\\StudentInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T13:34:37.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 30,
               "Title": "20240704124903_selfJoinTableFix3.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704124903_selfJoinTableFix3.cs",
               "RelativeDocumentMoniker": "Migrations\\20240704124903_selfJoinTableFix3.cs",
@@ -291,12 +441,11 @@
               "RelativeToolTip": "Migrations\\20240704124903_selfJoinTableFix3.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T12:49:03.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T12:49:03.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -304,12 +453,11 @@
               "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T12:47:38.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T12:47:38.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 32,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -317,12 +465,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-03T03:59:42.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T03:59:42.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 33,
               "Title": "20240704124719_selfJoinTableFix2.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704124719_selfJoinTableFix2.cs",
               "RelativeDocumentMoniker": "Migrations\\20240704124719_selfJoinTableFix2.cs",
@@ -330,25 +477,11 @@
               "RelativeToolTip": "Migrations\\20240704124719_selfJoinTableFix2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T12:47:19.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T12:47:19.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Repository\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Core\\Repository\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Repository\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Core\\Repository\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T14:45:22.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 34,
               "Title": "20240704124343_selfJoinTableFix.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704124343_selfJoinTableFix.cs",
               "RelativeDocumentMoniker": "Migrations\\20240704124343_selfJoinTableFix.cs",
@@ -356,12 +489,11 @@
               "RelativeToolTip": "Migrations\\20240704124343_selfJoinTableFix.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwEMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T12:43:43.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T12:43:43.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
               "Title": "20240704124549_selfJoinTableFix1.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704124549_selfJoinTableFix1.cs",
               "RelativeDocumentMoniker": "Migrations\\20240704124549_selfJoinTableFix1.cs",
@@ -369,12 +501,11 @@
               "RelativeToolTip": "Migrations\\20240704124549_selfJoinTableFix1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T12:45:50.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T12:45:50.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 35,
               "Title": "20240704114842_m1.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704114842_m1.cs",
               "RelativeDocumentMoniker": "Migrations\\20240704114842_m1.cs",
@@ -382,25 +513,11 @@
               "RelativeToolTip": "Migrations\\20240704114842_m1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T12:20:11.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T12:20:11.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmployeeConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\EmployeeConfiguration.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\ModelConfiguration\\EmployeeConfiguration.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\EmployeeConfiguration.cs",
-              "RelativeToolTip": "Core\\Domain\\ModelConfiguration\\EmployeeConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T12:16:37.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
               "Title": "20240704064400_createView1.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240704064400_createView1.cs",
               "RelativeDocumentMoniker": "Migrations\\20240704064400_createView1.cs",
@@ -411,19 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "StudentTeacherAssociation.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentTeacherAssociation.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\StudentTeacherAssociation.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentTeacherAssociation.cs",
-              "RelativeToolTip": "Core\\Domain\\TaskModel\\StudentTeacherAssociation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:36:48.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 11,
               "Title": "StudentBio.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\TaskModel\\StudentBio.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\TaskModel\\StudentBio.cs",
@@ -435,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 12,
               "Title": "20240703125757_first11.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240703125757_first11.cs",
               "RelativeDocumentMoniker": "Migrations\\20240703125757_first11.cs",
@@ -447,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -459,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "Villa.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\Models\\Villa.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Models\\Villa.cs",
@@ -471,19 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "StudentBioConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\StudentBioConfiguration.cs",
-              "RelativeDocumentMoniker": "Core\\Domain\\ModelConfiguration\\StudentBioConfiguration.cs",
-              "ToolTip": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\ModelConfiguration\\StudentBioConfiguration.cs",
-              "RelativeToolTip": "Core\\Domain\\ModelConfiguration\\StudentBioConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:40:21.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 38,
               "Title": "VillaAmanity.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Core\\Domain\\Models\\VillaAmanity.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Models\\VillaAmanity.cs",
@@ -495,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 9,
               "Title": "dbo.Villas [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost/WeekThreeWebApi/True/SqlTable/dbo.Villas.sql",
               "ToolTip": "dbo.Villas [Data]",
@@ -504,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 8,
               "Title": "dbo.VillaAmanities [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost/WeekThreeWebApi/True/SqlTable/dbo.VillaAmanities.sql",
               "ToolTip": "dbo.VillaAmanities [Data]",
@@ -513,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 10,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -525,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 13,
               "Title": "20240703044713_CreateVillaAndSeedTable2.cs",
               "DocumentMoniker": "C:\\Users\\Touqeer\\source\\repos\\EFCoreTask\\Migrations\\20240703044713_CreateVillaAndSeedTable2.cs",
               "RelativeDocumentMoniker": "Migrations\\20240703044713_CreateVillaAndSeedTable2.cs",
