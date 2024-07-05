@@ -6,8 +6,8 @@
         public string Name { get; set; }
         public string RollNo { get; set; }
 
-        //public int StudentBioId { get;  set; }
-        //public StudentBio StudentBio { get; set; }
+        //public Guid? StudentInfoId { get; set; }
+        //public StudentInfo? studentInfo { get; set; }
 
         //public ICollection<StudentAdmissionForm>? admissionForms { get; set; }
 

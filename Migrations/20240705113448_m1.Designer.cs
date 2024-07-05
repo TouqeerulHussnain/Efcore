@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EFCoreTask.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240705111438_addingStudent")]
-    partial class addingStudent
+    [Migration("20240705113448_m1")]
+    partial class m1
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

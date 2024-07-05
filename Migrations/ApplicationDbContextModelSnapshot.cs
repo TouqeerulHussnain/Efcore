@@ -123,6 +123,62 @@ namespace EFCoreTask.Migrations
                     b.ToTable("Employee");
                 });
 
+            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.Student", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("RollNo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid?>("StudentInfoId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("studentInfoId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("studentInfoId");
+
+                    b.ToTable("Student");
+                });
+
+            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.StudentInfo", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Address")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("City")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FSCMarksPercentage")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid>("StudentId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("StudentInfo");
+                });
+
             modelBuilder.Entity("EFCoreTask.Core.Domain.Models.VillaAmanity", b =>
                 {
                     b.HasOne("EFCoreTask.Core.Domain.Models.Villa", "Villa")
@@ -143,6 +199,21 @@ namespace EFCoreTask.Migrations
                     b.Navigation("Manager");
                 });
 
+            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.Student", b =>
+                {
+                    b.HasOne("EFCoreTask.Core.Domain.TaskModel.StudentInfo", null)
+                        .WithOne("Student")
+                        .HasForeignKey("EFCoreTask.Core.Domain.TaskModel.Student", "Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("EFCoreTask.Core.Domain.TaskModel.StudentInfo", "studentInfo")
+                        .WithMany()
+                        .HasForeignKey("studentInfoId");
+
+                    b.Navigation("studentInfo");
+                });
+
             modelBuilder.Entity("EFCoreTask.Core.Domain.Models.Villa", b =>
                 {
                     b.Navigation("villaAmanities");
@@ -151,6 +222,12 @@ namespace EFCoreTask.Migrations
             modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.Employee", b =>
                 {
                     b.Navigation("subordinates");
+                });
+
+            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.StudentInfo", b =>
+                {
+                    b.Navigation("Student")
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

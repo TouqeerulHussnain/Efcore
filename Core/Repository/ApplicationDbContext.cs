@@ -15,7 +15,7 @@ namespace EFCoreTask.Core.Repository
         }
 
         //public DbSet<Student> Student { get; set; }
-        //public DbSet<StudentInfo> StudentInfo { get; set; }
+        public DbSet<StudentInfo> StudentInfo { get; set; }
         //public DbSet<StudentAdmissionForm> StudentAdmissionForm { get; set; }
         //public DbSet<AllEmployeeManager> AllEmployeeManager { get; set; }
         public DbSet<VillaAmanity> VillaAmanities { get; set; }
@@ -26,8 +26,8 @@ namespace EFCoreTask.Core.Repository
         {
             base.OnModelCreating(modelBuilder);
             //modelBuilder.Entity<AllEmployeeManager>().ToView(nameof(AllEmployeeManager));
-            //new StudentConfiguration().Configure(modelBuilder.Entity<Student>());
-            //modelBuilder.ApplyConfiguration(new StudentBioConfiguration());
+            new StudentConfiguration().Configure(modelBuilder.Entity<Student>());
+            modelBuilder.ApplyConfiguration(new StudentInfoConfiguration());
             //modelBuilder.ApplyConfiguration(new AdmissionFormConfiguration());
             //modelBuilder.ApplyConfiguration(new EmployeeConfiguration());
 

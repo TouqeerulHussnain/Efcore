@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EFCoreTask.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240704135222_selfJoinTableFix4")]
-    partial class selfJoinTableFix4
+    [Migration("20240705114519_StudentAndStudentInfoAdded")]
+    partial class StudentAndStudentInfoAdded
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -139,40 +139,24 @@ namespace EFCoreTask.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("Id");
+                    b.Property<Guid?>("StudentInfoId")
+                        .HasColumnType("uniqueidentifier");
 
-                    b.ToTable("Student");
-                });
-
-            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.StudentAdmissionForm", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("AppliedFieldName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<Guid>("StudentId")
+                    b.Property<Guid?>("studentInfoId")
                         .HasColumnType("uniqueidentifier");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("StudentId");
+                    b.HasIndex("studentInfoId");
 
-                    b.ToTable("StudentAdmissionForm");
+                    b.ToTable("Student");
                 });
 
             modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.StudentInfo", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Address")
                         .IsRequired()
@@ -195,66 +179,7 @@ namespace EFCoreTask.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("StudentId")
-                        .IsUnique();
-
                     b.ToTable("StudentInfo");
-                });
-
-            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.Teacher", b =>
-                {
-                    b.Property<int>("TeacherId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TeacherId"));
-
-                    b.Property<string>("TeacherDescription")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("TeacherName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("TeacherId");
-
-                    b.ToTable("Teacher");
-                });
-
-            modelBuilder.Entity("EFCoreTask.Core.Domain.View.AllEmployeeManager", b =>
-                {
-                    b.Property<int>("Id")
-                        .HasColumnType("int");
-
-                    b.Property<Guid>("ManagerId")
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ManagerId");
-
-                    b.ToTable((string)null);
-
-                    b.ToView("AllEmployeeManager", (string)null);
-                });
-
-            modelBuilder.Entity("StudentTeacher", b =>
-                {
-                    b.Property<Guid>("StudentsId")
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<int>("TeachersTeacherId")
-                        .HasColumnType("int");
-
-                    b.HasKey("StudentsId", "TeachersTeacherId");
-
-                    b.HasIndex("TeachersTeacherId");
-
-                    b.ToTable("StudentTeacher");
                 });
 
             modelBuilder.Entity("EFCoreTask.Core.Domain.Models.VillaAmanity", b =>
@@ -277,52 +202,19 @@ namespace EFCoreTask.Migrations
                     b.Navigation("Manager");
                 });
 
-            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.StudentAdmissionForm", b =>
+            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.Student", b =>
                 {
-                    b.HasOne("EFCoreTask.Core.Domain.TaskModel.Student", "Student")
-                        .WithMany("admissionForms")
-                        .HasForeignKey("StudentId")
+                    b.HasOne("EFCoreTask.Core.Domain.TaskModel.StudentInfo", null)
+                        .WithOne("Student")
+                        .HasForeignKey("EFCoreTask.Core.Domain.TaskModel.Student", "Id")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Student");
-                });
-
-            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.StudentInfo", b =>
-                {
-                    b.HasOne("EFCoreTask.Core.Domain.TaskModel.Student", "Student")
-                        .WithOne()
-                        .HasForeignKey("EFCoreTask.Core.Domain.TaskModel.StudentInfo", "StudentId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Student");
-                });
-
-            modelBuilder.Entity("EFCoreTask.Core.Domain.View.AllEmployeeManager", b =>
-                {
-                    b.HasOne("EFCoreTask.Core.Domain.TaskModel.Employee", "Manager")
+                    b.HasOne("EFCoreTask.Core.Domain.TaskModel.StudentInfo", "studentInfo")
                         .WithMany()
-                        .HasForeignKey("ManagerId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("studentInfoId");
 
-                    b.Navigation("Manager");
-                });
-
-            modelBuilder.Entity("StudentTeacher", b =>
-                {
-                    b.HasOne("EFCoreTask.Core.Domain.TaskModel.Student", null)
-                        .WithMany()
-                        .HasForeignKey("StudentsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("EFCoreTask.Core.Domain.TaskModel.Teacher", null)
-                        .WithMany()
-                        .HasForeignKey("TeachersTeacherId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.Navigation("studentInfo");
                 });
 
             modelBuilder.Entity("EFCoreTask.Core.Domain.Models.Villa", b =>
@@ -335,9 +227,10 @@ namespace EFCoreTask.Migrations
                     b.Navigation("subordinates");
                 });
 
-            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.Student", b =>
+            modelBuilder.Entity("EFCoreTask.Core.Domain.TaskModel.StudentInfo", b =>
                 {
-                    b.Navigation("admissionForms");
+                    b.Navigation("Student")
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }
